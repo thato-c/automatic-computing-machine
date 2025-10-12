@@ -5,5 +5,7 @@
     align-items: center;
     padding: 2rem;
     margin: 50px;
-    height: 70vh;
+    height: 84vh;
+    width: 85vw;
+    border: solid black 2px;
 }
