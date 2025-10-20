@@ -8,5 +8,11 @@
     margin: 50px;
     height: 84vh; /* Hardcoding container height */
     width: 85vw;
-    border: solid black 2px;
+    background-color: transparent;
+}
+
+li{
+    list-style-type: none;
+    padding: 5px;
+    margin: 2px;
 }
